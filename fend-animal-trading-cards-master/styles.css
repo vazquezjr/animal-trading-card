@@ -1,0 +1,31 @@
+.interesting { 
+	font-style: italic; 
+}
+
+.label { 
+	font-weight: bold; 
+}
+
+ul {
+	list-style-type: none;
+}
+
+body {
+	font-family: sans-serif, Helvetica;
+	border: groove;
+	width: 322px
+}
+
+.around {
+	border: groove;
+}
+
+.spacing {
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.bottom_spacing {
+	padding-bottom: 10px
+}
